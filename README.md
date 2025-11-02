@@ -61,8 +61,7 @@ pip install -r requirements.txt
 python3 main.py
 Sample Output:
 
-yaml
-Copy code
+
 Smart Student Analyzer
 Enter name: Sree
 Enter 5 subject marks (separated by space): 85 90 80 88 92
