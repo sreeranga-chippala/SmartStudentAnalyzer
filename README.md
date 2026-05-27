@@ -1,6 +1,6 @@
 # 🧠 Smart Student Analyzer
 
-A simple yet smart Python project built using **Modules and Packages**, designed to analyze student performance, calculate grades, and provide personalized remarks — built as part of the **365-Day Roadmap to a 30+ LPA AI/ML Engineer** journey 🚀.
+A simple yet smart Python project built using **Modules and Packages**, designed to analyze student performance, calculate grades, and provide personalized remarks.
 
 ---
 
@@ -30,13 +30,22 @@ This project showcases how modular programming can be applied to **real-world Py
 
 SmartStudentAnalyzer/
 │
+
 ├── main.py # Entry point of the program
+
 ├── requirements.txt # Project dependencies
+
 ├── student_utils/ # Package containing modules
-│ ├── init.py
-│ ├── marks.py # Handles total & average
-│ ├── grades.py # Determines grade based on average
-│ └── remarks.py # Generates personalized remark
+
+│ 
+├── init.py
+│ 
+├── marks.py # Handles total & average
+│ 
+├── grades.py # Determines grade based on average
+│ 
+└── remarks.py # Generates personalized remark
+
 └── .gitignore
 
 
